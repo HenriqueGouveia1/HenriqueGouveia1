@@ -18,7 +18,7 @@
 <code><img height="20" src="http://s.glbimg.com/jo/g1/f/original/2011/08/22/22-java-300.jpg"></code>
 <code><img height="20" src="https://gilsonpaulo.com.br/media/nodew.jpg"></code>
 
-<img align="right" alt="GIF" width="350" height="900"  src="https://i.pinimg.com/originals/d8/aa/53/d8aa532214d5b380b9984f3c00ebbd81.png">
+<img align="right" alt="GIF" width="320" height="900"  src="https://i.pinimg.com/originals/d8/aa/53/d8aa532214d5b380b9984f3c00ebbd81.png">
 
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGouveia1&count_private=true&theme=radical" alt="HenriqueGouveia1" >
 
