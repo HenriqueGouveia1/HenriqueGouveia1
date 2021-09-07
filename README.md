@@ -5,7 +5,7 @@
 ### About Me!
 
 ##### 
-* 🤖 I'm adventuring with JavaScript and ReactJS
+* 🤖 I'm adventuring with JavaScript, ReactJS and Java
 * 🚀 Working with ....
 ##### 
 
@@ -16,7 +16,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/512/919/919827.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"></code>
-<code><img height="20" src="http://s.glbimg.com/jo/g1/f/original/2011/08/22/22-java-300.jpg"></code>
+<code><img height="20" src="https://img.olhardigital.com.br/wp-content/uploads/2015/05/20150520181625.jpg"></code>
 <code><img height="20" src="https://gilsonpaulo.com.br/media/nodew.jpg"></code>
 
 
