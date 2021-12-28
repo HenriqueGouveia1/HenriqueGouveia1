@@ -1,16 +1,15 @@
 ## Hi, I'm Henrique
 
-##### Fullstack 🔋| Web/MobDev🏿🤳| Enthusiast 👾
+### Fullstack begginer 🔋| Web/MobDev🏿🤳 | Enthusiast on Programming, Tech and Games 👾
 
-### About Me!
+### About Me?
 
 ##### 
-* 🤖 I'm adventuring with JavaScript, ReactJS and Java
-* 🚀 Working with ....
-##### 
+* 🤖 I'm adventuring with JavaScript, ReactJS, Java and whatever comes!
+* 🚀 Working with tests of users storys with Postman and documentation of WebServies in Energisa!
 
-
-### Languages and Tools:
+#####
+### Languages and Tools i've already used:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></code>
@@ -29,4 +28,4 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+Credit: [Jas-Script](https://github.com/Jas-Script) & [Rafa Ballerini](https://github.com/rafaballerini)
