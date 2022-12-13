@@ -10,7 +10,7 @@
 ## About Me?
 
 ##### 
-* 🤖 I'm adventuring with C#/.NET, JavaScript, ReactJS, Unity and whatever comes!
+* 🤖 I'm adventuring with C#/.NET, NodeJS, ReactJS, Unity and whatever comes!
 <div>
     <a target='_blank' href="https://www.linkedin.com/in/henrique-gouveia-silva/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
