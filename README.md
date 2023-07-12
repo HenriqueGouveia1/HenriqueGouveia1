@@ -5,7 +5,7 @@
 * **Living in**: João Pessoa - PB, Brazil
 * **University**: Science of computer on FPB - Faculdade Internacional da Paraíba.
 
-### Fullstack developer Jr 🔋| Enthusiast on Programming, Tech and Games 👾
+### Fullstack developer 🔋| Enthusiast on Programming, Tech and Games 👾
 
 ## About Me?
 
