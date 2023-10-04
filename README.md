@@ -1,3 +1,5 @@
+### Fullstack developer 🔋 | Enthusiast on Programming, Tech and Games 👾
+
 ## Detailed information
 
 * **Name**: Henrique Gouveia Silva
@@ -5,12 +7,10 @@
 * **Living in**: João Pessoa - PB, Brazil
 * **University**: Science of computer on FPB - Faculdade Internacional da Paraíba.
 
-### Fullstack developer 🔋| Enthusiast on Programming, Tech and Games 👾
-
 ## About Me?
 
 ##### 
-* 🤖 I'm adventuring with C#/.NET, NodeJS, ReactJS, Unity and whatever comes!
+* 🤖 I'm adventuring with Java (with Spring), C#/.NET, NodeJS, ReactJS, Unity and whatever comes!
 <div>
     <a target='_blank' href="https://www.linkedin.com/in/henrique-gouveia-silva/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
